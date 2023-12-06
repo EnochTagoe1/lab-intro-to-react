@@ -1,6 +1,26 @@
 body {
   font-family: sans-serif;
-  margin: 0;
+  margin: 10px;
+}
+
+/* .mycontact{
+  border: 3px solid blue;
+  height: 200px;
+  width: auto;
+} */
+
+.usercard{
+  border: 1px solid black;
+  height:auto;
+  width: 200px;
+}
+
+.posting{
+  border: 1px solid black;
+}
+
+.NavBar {
+  background-color: aqua;
 }
 
 html,
@@ -9,3 +29,6 @@ body,
   height: 100%;
   width: 100%;
 }
+/* *{
+  border: 2px solid black;
+} */
